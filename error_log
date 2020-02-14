@@ -1,0 +1,99 @@
+[31-Jul-2019 14:13:43 UTC] PHP Fatal error:  Cannot redeclare Distributor::orderInvoice() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Distributor.php on line 111
+[09-Aug-2019 14:31:42 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Setting.php on line 1049
+[11-Nov-2019 08:45:17 UTC] PHP Fatal error:  Cannot redeclare AspModel::mrdetail() in /home/y340o6yp79cq/public_html/erp-dev/application/models/asp/AspModel.php on line 528
+[11-Nov-2019 09:01:59 UTC] PHP Fatal error:  Cannot redeclare Crm::notifyPart() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Crm.php on line 914
+[11-Nov-2019 09:02:59 UTC] PHP Fatal error:  Cannot redeclare Crm::notifyPart() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Crm.php on line 914
+[11-Nov-2019 09:03:01 UTC] PHP Fatal error:  Cannot redeclare Crm::notifyPart() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Crm.php on line 914
+[11-Nov-2019 09:03:01 UTC] PHP Fatal error:  Cannot redeclare Crm::notifyPart() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Crm.php on line 914
+[11-Nov-2019 09:03:05 UTC] PHP Fatal error:  Cannot redeclare Crm::notifyPart() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Crm.php on line 914
+[11-Nov-2019 09:18:47 UTC] PHP Fatal error:  Cannot redeclare AspModel::shipmentDetail() in /home/y340o6yp79cq/public_html/erp-dev/application/models/asp/AspModel.php on line 669
+[12-Nov-2019 14:27:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:27:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:29:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:31:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:33:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:34:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:35:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69222400 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:36:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:37:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 92291072 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:38:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:39:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:41:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:41:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:42:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:42:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/views/crm_view.php on line 585
+[12-Nov-2019 14:43:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:44:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 111165440 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:46:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 85999616 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:46:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:47:44 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 85999616 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:47:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 85999616 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:48:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 85999616 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:48:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 85999616 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:54:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 85999616 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 14:54:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:02:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:02:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:02:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:03:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:05:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:10:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:10:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:11:03 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:11:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:11:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:11:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:15:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96485376 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:16:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 69222400 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:17:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:18:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:18:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:21:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:22:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:22:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:22:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:22:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[12-Nov-2019 15:23:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/y340o6yp79cq/public_html/erp-dev/system/core/Exceptions.php on line 271
+[15-Nov-2019 09:49:59 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:00 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:02 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:03 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:03 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:03 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:03 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:03 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:03 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:18 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:19 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:19 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:19 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:19 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:20 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:20 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[15-Nov-2019 09:51:21 UTC] PHP Fatal error:  Cannot redeclare Schemes::addScheme() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Schemes.php on line 54
+[18-Nov-2019 12:14:29 UTC] PHP Fatal error:  Cannot redeclare Asp::ordermrView() in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Asp.php on line 1300
+[26-Nov-2019 03:08:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[26-Nov-2019 03:11:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[09-Dec-2019 11:28:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/y340o6yp79cq/public_html/erp-dev/application/third_party/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y340o6yp79cq/public_html/erp-dev/application/third_party/PHPExcel.php on line 6
+[24-Dec-2019 11:24:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/y340o6yp79cq/public_html/erp-dev/application/libraries/PHPExcel/Autoloader.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/y340o6yp79cq/public_html/erp-dev/application/libraries/PHPExcel.php on line 6
+[30-Dec-2019 17:28:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/y340o6yp79cq/public_html/erp-dev/application/controllers/Retailer.php on line 81
+[10-Jan-2020 11:44:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[10-Jan-2020 11:45:47 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[10-Jan-2020 17:16:18 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[10-Jan-2020 17:16:48 Asia/Calcutta] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/libraries/Session/drivers/Session_files_driver.php on line 212
+[10-Jan-2020 13:50:52 UTC] PHP Fatal error:  Cannot redeclare BillingModel::viewDists() in /home/y340o6yp79cq/public_html/erp-dev/application/models/BillingModel.php on line 199
+[10-Jan-2020 14:54:40 UTC] PHP Fatal error:  Redefinition of parameter $amount in /home/y340o6yp79cq/public_html/erp-dev/application/models/Crm/CrmModel.php on line 1272
+[16-Jan-2020 16:06:02 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/application/views/errors/html/error_php.php on line 4
+[16-Jan-2020 16:08:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/application/views/errors/html/error_php.php on line 4
+[07-Feb-2020 10:55:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/y340o6yp79cq/public_html/erp-dev/system/database/drivers/mysqli/mysqli_driver.php on line 305
